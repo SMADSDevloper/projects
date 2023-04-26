@@ -1,4 +1,4 @@
-#   Employee Data Base  Based  on  OOPS Concept
+#   Employee Data  Based  on  OOPS Concept
 
  #  description 
 <i>This Employee Management System Project application stores all the employee's information in a database. It is an application developed in Java GUI technology and database used is SQLite. It contains employee information like employee id, first name etc .</i>
